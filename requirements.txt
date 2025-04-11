@@ -1,0 +1,7 @@
+streamlit
+openai
+PyPDF2
+nltk
+plotly.express
+matplotlib
+pip install python-dotenv openai
