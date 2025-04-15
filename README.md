@@ -1,1 +1,2 @@
-Virtual-Career-Advisor-through-Ai project through pure python using openAI and libraries of python.
+Developed an AI-powered virtual career advisor application using Python to assist users in identifying suitable career paths based on their skills, interests, and qualifications. Integrated machine learning algorithms for personalized career recommendations, resume evaluation, and job matching. Leveraged natural language processing (NLP) for user input analysis and chatbot interaction. Implemented a user-friendly interface and ensured scalability for diverse user profiles.
+Key Technologies: Python, scikit-learn, NLP (NLTK), Streamlit, Pandas, OpenAI API, SQLite/MySQL
